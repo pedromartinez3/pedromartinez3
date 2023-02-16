@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, AI, and energy transition
 - 🌱 I currently develop and improve ML applications
 - 💞️ I’m looking to collaborate on analytics development!
-- 📫 Reach me pedro.martinez2@bakerhughes.com
+- 📫 Reach me @ https://www.linkedin.com/in/pedro-martinez-51a176127/
 
 <!---
 pedromartinez3/pedromartinez3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
