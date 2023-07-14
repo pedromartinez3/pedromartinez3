@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pedromartinez3
-- 👀 I’m interested in machine learning, AI, and energy transition
-- 🌱 I currently develop and improve ML applications
-- 💞️ I’m looking to collaborate on analytics development!
+- 👀 I’m interested in machine learning and AI
+- 🌱 I currently develop and improve ML/AI applications
+- 💞️ I’d love to collaborate on developments!
 - 📫 Reach me @ https://www.linkedin.com/in/pedro-martinez-51a176127/
 
 <!---
