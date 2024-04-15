@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedromartinez3
-- 🌱 I develop ML/AI applications, I haven't uploaded much of my serious work yet, but I do have an introduction to working and augmenting LLMs (https://github.com/pedromartinez3/AI-Integration-Showcase)
+- 🌱 I develop ML/AI applications, I haven't uploaded much of my serious work yet, but I do created an introduction to working and augmenting LLMs (https://github.com/pedromartinez3/AI-Integration-Showcase)
 - 💞️ I’d love to collaborate on developments!
 - 📫 Reach me @ https://www.linkedin.com/in/pedro-martinez-51a176127/
 
